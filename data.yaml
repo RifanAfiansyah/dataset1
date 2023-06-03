@@ -1,0 +1,6 @@
+
+train: train/images
+val: test/images
+
+nc: 15
+names: ['adik', 'baik', 'bau', 'buruk', 'cantik', 'ganteng', 'ibu', 'kamu', 'kapan', 'mendengar', 'ngantuk', 'sedih', 'telpon', 'tidur', 'tolong']
